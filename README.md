@@ -1,3 +1,24 @@
+## rosbag_migration_rule (jade) - 1.0.0-0
+
+The packages in the `rosbag_migration_rule` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade rosbag_migration_rule` on `Wed, 24 Dec 2014 00:59:59 -0000`
+
+The `rosbag_migration_rule` package was released.
+
+Version of package(s) in repository `rosbag_migration_rule`:
+- upstream repository: https://github.com/ros/rosbag_migration_rule.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## rosbag_migration_rule - 1.0.0-0
 
 User `dthomas@drudge` released the packages in the `rosbag_migration_rule` repository by running `/usr/bin/bloom-release -r indigo -t indigo rosbag_migration_rule` on `Thu, 30 Jan 2014 01:56:12 -0000`
