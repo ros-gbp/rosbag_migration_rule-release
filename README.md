@@ -1,3 +1,26 @@
+## rosbag_migration_rule (lunar) - 1.0.0-0
+
+The packages in the `rosbag_migration_rule` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar rosbag_migration_rule` on `Tue, 21 Feb 2017 20:37:33 -0000`
+
+The `rosbag_migration_rule` package was released.
+
+Version of package(s) in repository `rosbag_migration_rule`:
+
+- upstream repository: https://github.com/ros/rosbag_migration_rule.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## rosbag_migration_rule (kinetic) - 1.0.0-0
 
 The packages in the `rosbag_migration_rule` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rosbag_migration_rule` on `Wed, 09 Mar 2016 19:15:28 -0000`
