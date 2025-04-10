@@ -1,3 +1,26 @@
+## rosbag_migration_rule (noetic) - 1.0.2-1
+
+The packages in the `rosbag_migration_rule` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic rosbag_migration_rule` on `Thu, 10 Apr 2025 21:50:51 -0000`
+
+The `rosbag_migration_rule` package was released.
+
+Version of package(s) in repository `rosbag_migration_rule`:
+
+- upstream repository: https://github.com/ros/rosbag_migration_rule.git
+- release repository: https://github.com/ros-gbp/rosbag_migration_rule-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rosbag_migration_rule (noetic) - 1.0.1-1
 
 The packages in the `rosbag_migration_rule` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rosbag_migration_rule` on `Sat, 25 Jan 2020 01:09:59 -0000`
