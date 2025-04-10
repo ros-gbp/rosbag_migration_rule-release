@@ -1,1 +1,1 @@
-{"trim": "", "base": "3a2911c", "trimbase": "", "parent": "debian/noetic/rosbag_migration_rule", "previous": "bbd25b5"}
+{"base": "ba82e48", "parent": "debian/noetic/rosbag_migration_rule", "previous": "b78a0a2", "trim": "", "trimbase": ""}
